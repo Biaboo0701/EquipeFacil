@@ -1,0 +1,6 @@
+@EquipeFacil_HostAddress = http://localhost:5106
+
+GET {{EquipeFacil_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

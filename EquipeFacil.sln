@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquipeFacil", "EquipeFacil\EquipeFacil.csproj", "{173C0206-C1D5-4935-A494-02E2AECD8438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173C0206-C1D5-4935-A494-02E2AECD8438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173C0206-C1D5-4935-A494-02E2AECD8438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173C0206-C1D5-4935-A494-02E2AECD8438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173C0206-C1D5-4935-A494-02E2AECD8438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEAF959B-B4E6-44F5-87A6-C251148ED275}
+	EndGlobalSection
+EndGlobal
