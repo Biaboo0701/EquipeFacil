@@ -22,8 +22,9 @@ namespace EquipeFacil.Models
         [Required]
         [RegularExpression(@"^\d{11}$", ErrorMessage = "Documento deve conter 11 dígitos.")]
         public string Documento { get; set; }
+        public string Telefone { get; set; }
 
-        public List<string> Telefone { get; set; } = new List<string>();
+        //public List<string> Telefone { get; set; } = new List<string>();
 
         public string Gestor { get; set; }
 
@@ -36,4 +37,3 @@ namespace EquipeFacil.Models
         }
     }
 }
-
